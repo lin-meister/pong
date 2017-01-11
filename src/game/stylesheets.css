@@ -1,0 +1,31 @@
+.pane {
+    -fx-background-image: url("zenPaper.jpg");
+    -fx-alignment: center;
+    -fx-text-fill: white;
+    -fx-font-family: "Avenir";
+    -fx-background-size: 400.0 400.0;
+    
+}
+
+.hbox {
+    -fx-alignment: center;
+}
+
+.label {
+    -fx-padding: 10.0px;
+    -fx-alignment: center;
+}
+
+.score {
+	-fx-font-size: 36px;	
+}
+
+.ball {
+}
+
+.paddle {
+	-fx-arc-width: 1;
+	-fx-arc-height: 100;
+}
+
+
